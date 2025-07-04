@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,vue,vite,ts,html,css,scss,git,github,gitlab,rollup)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vue,vite,ts,html,css,scss,git,github,gitlab,rollup,react,redux,pinia)](https://skillicons.dev)
 
 ## 📈 GitHub Activity Graph:
 
